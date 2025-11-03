@@ -111,13 +111,9 @@ them when a path is valid to keep the RViz view clean and trustworthy.
 ## 5 Results on RViz
 
 The output of the path planning is given below:
+<img width="886" height="730" alt="1" src="https://github.com/user-attachments/assets/6131d92f-aff8-4fed-96eb-2020bcb381aa" />
 
-```
-Figure 1: Initial path planning attempts showing the grid search and intermediate paths.
-```
-```
-Figure 2: Final planned paths after smoothing and validation.
-```
+
 
 ## 6 Conclusion
 
