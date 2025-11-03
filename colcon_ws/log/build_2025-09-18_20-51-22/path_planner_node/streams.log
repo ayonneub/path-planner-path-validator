@@ -1,0 +1,31 @@
+[0.870s] Invoking command in '/home/kasm-user/colcon_ws/build/path_planner_node': PYTHONPATH=/home/kasm-user/colcon_ws/build/path_planner_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kasm-user/colcon_ws/install/path_planner_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kasm-user/colcon_ws/build/path_planner_node/build --no-deps symlink_data
+[1.128s] running develop
+[1.302s] running egg_info
+[1.303s] creating path_planner_node.egg-info
+[1.303s] writing path_planner_node.egg-info/PKG-INFO
+[1.303s] writing dependency_links to path_planner_node.egg-info/dependency_links.txt
+[1.303s] writing entry points to path_planner_node.egg-info/entry_points.txt
+[1.304s] writing requirements to path_planner_node.egg-info/requires.txt
+[1.304s] writing top-level names to path_planner_node.egg-info/top_level.txt
+[1.304s] writing manifest file 'path_planner_node.egg-info/SOURCES.txt'
+[1.306s] reading manifest file 'path_planner_node.egg-info/SOURCES.txt'
+[1.306s] writing manifest file 'path_planner_node.egg-info/SOURCES.txt'
+[1.309s] running build_ext
+[1.310s] Creating /home/kasm-user/colcon_ws/install/path_planner_node/lib/python3.10/site-packages/path-planner-node.egg-link (link to .)
+[1.310s] Installing path_planner script to /home/kasm-user/colcon_ws/install/path_planner_node/lib/path_planner_node
+[1.311s] Installing path_validator script to /home/kasm-user/colcon_ws/install/path_planner_node/lib/path_planner_node
+[1.311s] 
+[1.311s] Installed /home/kasm-user/colcon_ws/build/path_planner_node
+[1.311s] running symlink_data
+[1.311s] creating /home/kasm-user/colcon_ws/install/path_planner_node/share/ament_index
+[1.312s] creating /home/kasm-user/colcon_ws/install/path_planner_node/share/ament_index/resource_index
+[1.312s] creating /home/kasm-user/colcon_ws/install/path_planner_node/share/ament_index/resource_index/packages
+[1.312s] symbolically linking /home/kasm-user/colcon_ws/build/path_planner_node/resource/path_planner_node -> /home/kasm-user/colcon_ws/install/path_planner_node/share/ament_index/resource_index/packages
+[1.313s] symbolically linking /home/kasm-user/colcon_ws/build/path_planner_node/package.xml -> /home/kasm-user/colcon_ws/install/path_planner_node/share/path_planner_node
+[1.313s] creating /home/kasm-user/colcon_ws/install/path_planner_node/share/path_planner_node/launch
+[1.313s] symbolically linking /home/kasm-user/colcon_ws/build/path_planner_node/launch/path_planner.launch.py -> /home/kasm-user/colcon_ws/install/path_planner_node/share/path_planner_node/launch
+[1.313s] creating /home/kasm-user/colcon_ws/install/path_planner_node/share/path_planner_node/config
+[1.313s] symbolically linking /home/kasm-user/colcon_ws/build/path_planner_node/config/planner.yaml -> /home/kasm-user/colcon_ws/install/path_planner_node/share/path_planner_node/config
+[1.314s] symbolically linking /home/kasm-user/colcon_ws/build/path_planner_node/config/env2.yaml -> /home/kasm-user/colcon_ws/install/path_planner_node/share/path_planner_node/config
+[1.314s] symbolically linking /home/kasm-user/colcon_ws/build/path_planner_node/config/env1.yaml -> /home/kasm-user/colcon_ws/install/path_planner_node/share/path_planner_node/config
+[1.352s] Invoked command in '/home/kasm-user/colcon_ws/build/path_planner_node' returned '0': PYTHONPATH=/home/kasm-user/colcon_ws/build/path_planner_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kasm-user/colcon_ws/install/path_planner_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kasm-user/colcon_ws/build/path_planner_node/build --no-deps symlink_data

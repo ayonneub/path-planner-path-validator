@@ -1,0 +1,13 @@
+services:
+  kasm_desktop_ros:
+    image: kasm-desktop/ros:humble
+    container_name: kasm_desktop_ros
+    ports:
+      - "6901:6901"
+    environment:
+      - VNC_PW=password
+      - KASM_SSL=false
+    shm_size: "512m"
+    restart: unless-stopped
+    volumes:
+      - ./colcon_ws:/home/kasm-user/colcon_ws

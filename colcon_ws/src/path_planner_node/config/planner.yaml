@@ -1,0 +1,3 @@
+planner_name: A*
+path_topic: planned_path
+env_file: env1.yaml

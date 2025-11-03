@@ -1,0 +1,18 @@
+[0.945s] Invoking command in '/home/kasm-user/colcon_ws/build/path_planner_node': PYTHONPATH=/home/kasm-user/colcon_ws/build/path_planner_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kasm-user/colcon_ws/install/path_planner_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kasm-user/colcon_ws/build/path_planner_node/build --no-deps symlink_data
+[1.248s] running develop
+[1.400s] running egg_info
+[1.400s] writing path_planner_node.egg-info/PKG-INFO
+[1.401s] writing dependency_links to path_planner_node.egg-info/dependency_links.txt
+[1.401s] writing entry points to path_planner_node.egg-info/entry_points.txt
+[1.401s] writing requirements to path_planner_node.egg-info/requires.txt
+[1.401s] writing top-level names to path_planner_node.egg-info/top_level.txt
+[1.403s] reading manifest file 'path_planner_node.egg-info/SOURCES.txt'
+[1.404s] writing manifest file 'path_planner_node.egg-info/SOURCES.txt'
+[1.405s] running build_ext
+[1.406s] Creating /home/kasm-user/colcon_ws/install/path_planner_node/lib/python3.10/site-packages/path-planner-node.egg-link (link to .)
+[1.406s] Installing path_planner script to /home/kasm-user/colcon_ws/install/path_planner_node/lib/path_planner_node
+[1.407s] Installing path_validator script to /home/kasm-user/colcon_ws/install/path_planner_node/lib/path_planner_node
+[1.407s] 
+[1.407s] Installed /home/kasm-user/colcon_ws/build/path_planner_node
+[1.407s] running symlink_data
+[1.444s] Invoked command in '/home/kasm-user/colcon_ws/build/path_planner_node' returned '0': PYTHONPATH=/home/kasm-user/colcon_ws/build/path_planner_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kasm-user/colcon_ws/install/path_planner_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kasm-user/colcon_ws/build/path_planner_node/build --no-deps symlink_data

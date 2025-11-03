@@ -1,0 +1,4 @@
+[console_scripts]
+path_planner = path_planner_node.path_planner:main
+path_validator = path_planner_node.path_validator:main
+
