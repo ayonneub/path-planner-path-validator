@@ -1,8 +1,5 @@
-# Report on Path Planner and Path Validator Implementation
+# Path Planner and Path Validator Implementation
 
-### Ayon Dey
-
-### October 2, 2025
 
 ## 1 Introduction
 
